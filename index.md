@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Island Wanderer SG
 
 ## Puzzle-guided chatbot tours of our island's little gems
